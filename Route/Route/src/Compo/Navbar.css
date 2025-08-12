@@ -1,0 +1,11 @@
+.active-link{
+    border: 2px solid black ;
+}
+
+ul {
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    display: flex;
+    gap: 20px;
+}
